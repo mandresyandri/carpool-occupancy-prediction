@@ -1,6 +1,6 @@
 # Prédiction du nombre de places occupées dans un trajet de covoiturage
 
-##Contexte et objectif du projet 
+## Contexte et objectif du projet 
 
 Dans le cadre de cet examen de machine learning, je propose de développer un modèle de prédiction du nombre de places occupées dans un trajet de covoiturage. L'objectif principal est de prédire, pour chaque trajet, le nombre de places qui seront effectivement occupées par les passagers. Ce modèle vise à répondre à des problématiques réelles dans le domaine du transport, en particulier dans la gestion des trajets de covoiturage et des incitations pour encourager un meilleur taux de remplissage des véhicules.
 
